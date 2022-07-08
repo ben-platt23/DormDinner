@@ -5,7 +5,7 @@ This program firstly reads in a list of food ingredients that the user gives in 
 File read I/O in Java and reinforced what I had learned about arraylists.
 
 ## Output Detailed Description
-It then creates ArrayLists of objects for each recipe as well as an ArrayList for the ingredients that the user gave. The objects in the first list have attributes of title, cook time and ingredients (which is of type ArrayList).
+After reading in two csv files from the user containing recipes and ingredients it creates ArrayLists of objects for each recipe as well as an ArrayList for the ingredients that the user gave. The objects in the first list have attributes of title, cook time and ingredients (which is of type ArrayList).
 It will print out all of these objects in an organized fashion.
 
 What is printed out next depends on what recipes the user can make:
