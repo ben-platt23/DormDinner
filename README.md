@@ -1,6 +1,11 @@
 # DormDinner
+## Basic description
 This program firstly reads in a list of food ingredients that the user gives in as well as a list of recipes and their required ingredients in .csv format
 
+## What I learned
+File read I/O in Java and reinforced what I had learned about arraylists.
+
+## Output Detailed Description
 It then creates ArrayLists of objects for each recipe as well as an ArrayList for the ingredients that the user gave. The objects in the first list have attributes of title, cook time and ingredients (which is of type ArrayList).
 It will print out all of these objects in an organized fashion.
 
