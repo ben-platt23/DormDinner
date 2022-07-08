@@ -1,4 +1,3 @@
-# DormDinner
 ## Basic description
 This program firstly reads in a list of food ingredients that the user gives in as well as a list of recipes and their required ingredients in .csv format
 
